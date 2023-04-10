@@ -1,0 +1,5 @@
+pandas
+openai
+numpy
+pickle
+transformers
